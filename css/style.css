@@ -1,0 +1,136 @@
+@font-face {
+	font-family: 'fontawesome';
+	src:url('../fonts/fontawesome.eot');
+	src:url('../fonts/fontawesome.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/fontawesome.svg#fontawesome') format('svg'),
+		url('../fonts/fontawesome.woff') format('woff'),
+		url('../fonts/fontawesome.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+@font-face {
+	font-family: 'TH Sarabun New';
+	src: url('THSarabunNew.eot');
+	src: url('THSarabunNew.eot?#iefix') format('embedded-opentype'),
+		url('THSarabunNew.woff2') format('woff2'),
+		url('THSarabunNew.woff') format('woff'),
+		url('THSarabunNew.ttf') format('truetype'),
+		url('THSarabunNew.svg#THSarabunNew') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+.icon-1{
+font-family: FontAwesome;
+
+}
+
+.Changeoption{
+	 border-radius:6px;
+ 	border: 1px solid #FFC0CB;
+ 	font-family: "TH Sarabun New";
+ 	font-size: 21px;
+ 	width: auto;
+ 	height: 30px;
+	width: 50%;
+	margin: 10px 25% 0px 25%;
+ }
+.Currency{
+	height: 50px;
+	width: auto;	
+	
+	text-align: center;
+	border-radius: 10px 10px 0px 0px;
+	display: block;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e67399+0,ffc0cb+76 */
+background: #e67399; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #e67399 0%, #ffc0cb 76%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #e67399 0%,#ffc0cb 76%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #e67399 0%,#ffc0cb 76%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e67399', endColorstr='#ffc0cb',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
+.Currency h1{
+	padding-top: 5px;
+	color: #fff;
+}
+.text-cen{
+	
+	height: 30px;
+	width: 50%;
+	margin: 10px 25% 0px 25%;
+	background-color: #fff;
+	
+}
+input[type=text]{
+	 border: 1px solid #FFC0CB;
+	 border-radius: 4px;
+	 padding: 10px 0px;
+	   display: inline-block;
+	   font-family: "TH Sarabun New";
+	   font-size: 19pt;
+}
+
+.Currency-2{
+height: auto;
+	width: auto;
+	border: 2px solid #FFC0CB;
+	border-radius: 0px 0px 10px 10px;
+	padding-bottom: 10px;
+}
+.box-currentcy{
+	height: auto;
+	width: auto;
+	margin:  0 auto;
+
+}
+select:focus{ outline:none; }
+button:focus{ outline:none; }
+div:focus{ outline:none; }
+.button-cen{
+		 border: 1px solid #FFC0CB;
+	 border-radius: 4px;
+	height: 30px;
+	width: 50%;
+	margin: 10px 25% 20px 25%;
+	background-color: #FFC0CB;
+	display: block;
+	transition: background-color 0.5s;
+}
+.button-cen:hover{
+		 
+	background-color: #E67399;
+
+}
+.button-cen:target{
+		 
+	background-color: #000;
+
+}
+.Currency-3{
+	height: 30px;
+	width: auto;	
+	
+	text-align: center;
+	border-radius: 5px 5px 0px 0px;
+	display: block;
+	font-size: 18pt;
+	font-family: "TH Sarabun New";
+
+}
+.font-size{
+	font-size: 30pt;
+
+}
+.mb{
+	margin: 0px 0px 20px 0px;
+
+}
+.ww{
+	height: 20px;
+	width: 20px;
+}
